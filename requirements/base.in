@@ -10,6 +10,7 @@ django-rest-swagger
 django-simple-history
 django-waffle
 djangorestframework
+drf-nested-routers
 edx-auth-backends
 edx-django-utils
 edx-drf-extensions
